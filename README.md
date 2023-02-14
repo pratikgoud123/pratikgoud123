@@ -1,7 +1,7 @@
 <h1>Hey 👋, This is Pratik Goud </h1>
   
-## 💫 About Me:
-💻 I am a certified Full Stack Software Engineer<br><br>
+## 🙋‍♂️ About Me:
+🖥️ I am a certified Full Stack Software Engineer<br><br>
 👯 A Tech Enthusiast with skills of Java, Spring Boot, Angular and Docker<br><br>
 💬 Ask me about Anything reated to Java, Angular and SpringBoot<br><br>
 💡 I am always eager to learn and improve my skills<br><br>
@@ -24,7 +24,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 💻 Other Tech:
+# 📽️ Other Tech:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
