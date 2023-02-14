@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<div id="header">
   <h1>Hey 👋, This is Pratik Goud </h1>
-# 💫 About Me:
+# 💫 About Me:<br>
 💻 I am a certified Full Stack Software Engineer<br><br>👯 A Tech Enthusiast with skills of Java, Spring Boot, Angular and Docker<br><br>💬 Ask me about Anything reated to Java, Angular and SpringBoot<br><br>💡 I am always eager to learn and improve my skills<br><br>📫 How to reach me pratik.loop@gmail.com
 
 
