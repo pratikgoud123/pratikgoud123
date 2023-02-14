@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <h1>Hi, I am Pratik Goud </h1>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
-  <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi 👋
+<!--   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+  <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME"> -->
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
